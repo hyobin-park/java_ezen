@@ -6,7 +6,7 @@ public class ConstantsEx {
 
 	public static void main(String[] args) {
 
-		PAI = 11.1;
+//		PAI = 11.1;
 		
 	}
 
