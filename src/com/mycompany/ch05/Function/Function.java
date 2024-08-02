@@ -1,4 +1,4 @@
-package com.mycompany.ch05;
+package com.mycompany.ch05.Function;
 
 public class Function {
 
