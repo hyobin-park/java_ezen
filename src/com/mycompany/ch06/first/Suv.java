@@ -17,7 +17,7 @@ public class Suv {
 	}
 	
 	public int sum(int a, int b) {
-		int result = a + b;		
+		int result = a + b;
 		return result;
 	}
 	
