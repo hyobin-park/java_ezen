@@ -1,4 +1,4 @@
-package com.mycompany.ch2;
+package com.mycompany.ch02;
 
 public class PromotionEx {
 
