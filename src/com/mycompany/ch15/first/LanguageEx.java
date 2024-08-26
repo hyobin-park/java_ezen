@@ -45,9 +45,9 @@ public class LanguageEx {
 			System.out.println("cars.get("+i+").getName()" + cars.get(i).getName());
 		}
 		
-		for(Car car: cars) {
-			System.out.println("car.getName:" + car.getName());
-		}
+//		for(Car car: cars) {
+//			System.out.println("car.getName:" + car.getName());
+//		}
 		
 		
 //		------------------------
